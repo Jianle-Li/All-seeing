@@ -35,6 +35,9 @@
 "..\..\output\bsp_usart.o"
 "..\..\output\bsp_key.o"
 "..\..\output\bsp_systick.o"
+"..\..\output\atk_ncr.o"
+"..\..\User\ATKNCR\ATKNCR_N_V2.0.lib"
+"..\..\output\img_pro.o"
 --library_type=microlib --strict --scatter "..\..\Output\OV7725.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

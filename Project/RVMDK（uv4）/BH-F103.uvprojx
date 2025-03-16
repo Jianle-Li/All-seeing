@@ -618,6 +618,21 @@
               <FileType>1</FileType>
               <FilePath>..\..\User\SysTick\bsp_SysTick.c</FilePath>
             </File>
+            <File>
+              <FileName>atk_ncr.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\User\ATKNCR\atk_ncr.c</FilePath>
+            </File>
+            <File>
+              <FileName>ATKNCR_N_V2.0.lib</FileName>
+              <FileType>4</FileType>
+              <FilePath>..\..\User\ATKNCR\ATKNCR_N_V2.0.lib</FilePath>
+            </File>
+            <File>
+              <FileName>img_pro.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\..\User\math\img_pro.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
